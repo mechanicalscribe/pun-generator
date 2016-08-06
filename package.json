@@ -1,0 +1,26 @@
+{
+  "name": "pun-generator",
+  "version": "0.0.1",
+  "description": "Enter a word and get funny puns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mechanicalscribe/pun-generator.git"
+  },
+  "keywords": [
+    "puns",
+    "language"
+  ],
+  "author": "Chris Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mechanicalscribe/pun-generator/issues"
+  },
+  "homepage": "https://github.com/mechanicalscribe/pun-generator#readme",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
