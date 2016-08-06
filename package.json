@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/mechanicalscribe/pun-generator#readme",
   "dependencies": {
+    "cmu-pronouncing-dictionary": "^1.0.3",
     "minimist": "^1.2.0"
   }
 }
