@@ -7,7 +7,7 @@ var rl = readline.createInterface({
 
 var word = args._[0];
 
-var pattern = new RegExp("^." + word.slice(1));
+var pattern = new RegExp("^.{1,3}" + word.slice(1));
 
 var puns = [];
 
